@@ -1,0 +1,10 @@
+{
+  "id": null,
+  "name": "Classic White T-Shirt",
+  "brand": "Acme Apparel",
+  "price": "19.99",
+  "inventory": 150,
+  "description": "Comfortable 100% cotton white t-shirt, unisex.",
+  "categoryId": 1
+}
+
